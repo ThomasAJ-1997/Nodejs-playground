@@ -1,6 +1,5 @@
 // Node Code
 const fs = require("fs");
-
 // Blocking synchronous way
 // const textIn = fs.readFileSync("./1-node-farm/starter/txt/input.txt", "utf-8");
 // console.log(textIn);
